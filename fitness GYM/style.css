@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+.img {
+    transform: translate(-50%);
+    left: 70%;
+    padding-top: 74px;
+    position: absolute;
+    z-index: 2;
+}
+
+.sectionone {
+    color: rgb(0, 13, 25);
+    background-size: cover;
+    background-repeat: no-repeat;
+ height: 96vh;
+    background-color: #191a1f;
+}
+
+.fa-solid {
+    padding: top 10px,  !important;
+}
+
+.containerA {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 10px;
+    z-index: 9999999999;
+    flex-direction: column;
+}
+
+.coloraa {
+    color: #fd3c4d;
+}
+
+.sectiontwo {
+    background: rgb(54, 49, 49);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fan {
+    background-color: #27242E;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    background-color: #27242E;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+}
+
+.aot {
+    height: 55vh;
+    width: 75%;
+    background-color: #27242E;
+    padding: 10px;
+}
+
+.left {
+
+    height: 50vh;
+    width: 85%;
+    padding: 0 12px 0 12px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.color {
+    color: #ababab;
+}
+
+.font {
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: #fff
+}
+
+.fontA {
+    padding-left: 480px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: #fff
+}
+
+.wel {
+    color: #fd3c4d
+}
+
+.btn {
+
+    background: color #fd3c4d !important;
+    
+}
+
+.rope {
+    height: 450px;
+}
+
+.ten {
+    width: 180px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+
+}
+
+.five {
+    width: 320px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+
+}
+
+.sectionthree {
+    color: rgb(0, 13, 25);
+    background-size: cover;
+
+
+    background-color: #191a1f;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 10px;
+    padding: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(./www_muscleandfitness_com-Bodybuilder-Barbell-Biceps-Curl-1109.jpg);
+
+}
+
+.secthreebox {
+    padding: 20px;
+    width: 280px;
+    height: 280px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectionfour {
+    background-color: #191a1f;
+    padding: 30px;
+    color: #fff;
+}
+
+.img-fluid {
+    clip-path: polygon(0 0, 100% 0, 81% 100%, 0% 100%);
+
+}
+
+.welA {
+    color: #fd3c4d
+}
+
+.sectionfive {
+    height: 50vh;
+    background-size: cover;
+    background-image: linear-gradient(rgb(0 0 0 / 75%), rgb(0 0 0 / 90%)), url(https://manflowyoga.com/wp-content/uploads/2019/11/manflowyoga_yogaformen_beginners_warrior2-HQ.jpg);
+    padding: 40px;
+    color: #fff;
+}
+
+.round {
+    width: 70px;
+    height: 70px;
+    border: 5px solid #ff3748;
+    border-radius: 100px;
+}
+
+.hit {
+    width: 59px;
+    height: 61px;
+    border-radius: 100px;
+}
+
+.sectionsix {
+    background-color: #24272E;
+    padding: 30px;
+    color: #fff;
+}
+.sectionseven{
+    height: 50vh;
+    background-size: cover;
+    background-image: linear-gradient(rgb(0 0 0 / 84%), rgb(0 0 0)), url(https://s1.1zoom.me/b5050/819/433723-Kycb_3840x2400.jpg);    color: #fff;
+    padding: 40px;
+}
+.textColor{
+    color: #999999;
+    font-size: 10px;
+}
+.inputs{
+    background: transparent !important;;
+    border: none !important;;
+    border-bottom: 1px solid #dcdcdc !important;
+}
